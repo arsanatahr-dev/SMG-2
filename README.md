@@ -31,7 +31,7 @@ video {
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>
 const video = document.getElementById('video');
-const src = 'https://jmlive.jasamarga.com/hls/14/4d046e37-3b7b-4ee9-a743-9a4736388500/index.m3u8';
+const src = 'https://jmlive.jasamarga.com/hls/14/3e9ed213-11ae-495e-86c1-1b431e37677b/index.m3u8';
 
 if (Hls.isSupported()) {
   const hls = new Hls({
